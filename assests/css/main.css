@@ -429,8 +429,6 @@ main {
   color: var(--just-white);
   border-radius: 8px;
 }
-.plan-info-container {
-}
 .plan-card--title {
   padding-top: 30px;
   font-size: 1.4rem;
